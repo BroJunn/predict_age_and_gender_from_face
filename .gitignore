@@ -1,3 +1,5 @@
 UTK/UTKFace_test/*
 UTK/UTKFace_train/*
+!UTK/UTKFace_test/1_0_0_20161219162630727.jpg.chip.jpg
+!UTK/UTKFace_train/1_0_0_20161219140623097.jpg.chip.jpg
 __pycache__
